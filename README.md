@@ -7,3 +7,4 @@ Load morton1.ipynb into your GOOGLE Drive
 Run tiger_transform_IJGIS.ipynb
 The first frame has the level set at 6, you can change this and run again.
 You can also change the seed to get different results for each run at a given level
+Note: all encoding with Morton is my stuff, BiGram Model after Andrej Karpathy "Let's building GPT from Scratch" 
